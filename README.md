@@ -35,3 +35,5 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Video Uploads
 - No HEIC
 - No albums or Search Bar
+- Support for Raw Files
+- File Converter built in
