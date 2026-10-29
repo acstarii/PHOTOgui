@@ -33,3 +33,5 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 ## Things to add
 
 - Video Uploads
+- No HEIC
+- No albums or Search Bar
