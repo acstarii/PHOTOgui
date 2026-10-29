@@ -25,8 +25,8 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 ## Notes
 
 - Supported: JPG, PNG, GIF, WebP, BMP. Not yet: HEIC (iPhone) and video.
-- Photos are stored untouched in `<dataDir>/originals`; previews in `<dataDir>/thumbs`; the list in `index.tsv`.
-- **Back up `<dataDir>`**. If the disk dies, the photos are gone.
+- Photos are stored in the created photo directory 'data' or optionally your own directory; previews in `<your_directory>/thumbs`; the list in `index.tsv`.
+- **Back up `<your_directory>`**. If the disk dies, the photos are gone.
 - Uploading the same photo twice is detected and ignored.
 - 10 wrong passwords within 10 minutes locks sign-in for the rest of that window.
 
