@@ -1,4 +1,4 @@
-# MyPhotos
+# PHOTOgui
 
 A personal, self-hosted photo library with a Google Photos-style web UI.
 Photos live on this computer, up to the storage limit you set. No cloud, no third-party libraries.
@@ -29,3 +29,7 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - **Back up `<dataDir>`**. If the disk dies, the photos are gone.
 - Uploading the same photo twice is detected and ignored.
 - 10 wrong passwords within 10 minutes locks sign-in for the rest of that window.
+
+## Things to add
+
+- Video Uploads
