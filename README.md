@@ -12,12 +12,12 @@ Photos live on the host computer, up to the storage limit you set. No cloud, no 
    (e.g. `D:/MyPhotosData`, with forward slashes).
 3. **Double-click `run.bat`.** It builds the app and starts the server.
    When Windows Firewall asks, allow access on **private networks**.
-4. Open **http://localhost:8080** and sign in.
+4. Open **http://localhost:8080** on the host computer and sign in.
 
 ## Reach it from anywhere
 
-Install **Tailscale** (tailscale.com) on this computer and on your phone/laptop, signed in to the same account.
-Then open `http://<this computer's Tailscale address>:8080` (starts with `100.`) from any of your devices, on any network.
+Install **Tailscale** (tailscale.com) on the host computer and on your phone/laptop, signed in to the same account.
+Then open `http://<host computer's Tailscale address>:8080` (starts with `100.`) from any of your devices, on any network.
 The address is also printed when the server starts.
 
 Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (when plugged in).
