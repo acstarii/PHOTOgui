@@ -3,7 +3,7 @@
 A personal, self-hosted photo library with a Google Photos-style web UI.
 Photos live on the host computer, up to the storage limit you set. No cloud, no third-party libraries.
 
-## Set up (Windows 10)
+## Set up (Windows)
 
 1. **Install Java (JDK 17 or newer).** In a Command Prompt:
    `winget install EclipseAdoptium.Temurin.21.JDK`
