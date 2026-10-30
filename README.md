@@ -38,3 +38,4 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - File Explorer (Big Update)
 - Add switch button for file --> photos 
 - Accessible from other devices that don't have tailscale
+- Customizable GUI (edit color schemes/pre-loaded and make your own, edit all titles)
