@@ -37,3 +37,5 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - File Explorer (Big Update)
 - Add switch button for file --> photos 
 - Accessible from other devices that don't have tailscale
+- Support for using multiple drives
+- Seeing what pictures/files are on what drive
