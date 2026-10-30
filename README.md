@@ -32,10 +32,9 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 
 ## Things to add
 
-- Video Uploads
-- No HEIC
-- No albums or Search Bar
-- Support for Raw Files
+- Albums and Search Bar
+- Support for all types of Raw Files, all types of videos, HEIC
 - File Converter built in
 - File Explorer (Big Update)
+- Add switch button for file --> photos 
 - Accessible from other devices that don't have tailscale
