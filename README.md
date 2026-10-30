@@ -1,7 +1,7 @@
 # PHOTOgui
 
 A personal, self-hosted photo library with a Google Photos-style web UI.
-Photos live on this computer, up to the storage limit you set. No cloud, no third-party libraries.
+Photos live on the host computer, up to the storage limit you set. No cloud, no third-party libraries.
 
 ## Set up (Windows 10)
 
