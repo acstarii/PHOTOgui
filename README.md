@@ -38,3 +38,4 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Support for Raw Files
 - File Converter built in
 - File Explorer (Big Update)
+- Accessible from other devices that don't have tailscale
