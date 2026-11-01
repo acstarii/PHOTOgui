@@ -42,4 +42,4 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Cancel upload button
 - Create album button
 - Add photos to album button
-- Delete album button
+- Delete album button (delete album does NOT delete photos as well)
