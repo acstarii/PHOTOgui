@@ -39,3 +39,7 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Support for using multiple drives
 - Seeing what pictures/files are on what drive
 - Different tile size options
+- Cancel upload button
+- Create album button
+- Add photos to album button
+- Delete album button
