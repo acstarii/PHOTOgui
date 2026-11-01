@@ -32,8 +32,6 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 
 ## Things to add
 
-- Support for all types of Raw Files, all types of videos, HEIC
-- Make phone versions look better and more compatible to use
 - File Converter built in
 - File Explorer (Big Update)
 - Add switch button for file --> photos 
