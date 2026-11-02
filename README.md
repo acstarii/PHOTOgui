@@ -39,7 +39,5 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Support for using multiple drives
 - Seeing what pictures/files are on what drive
 - Different tile size options
-- Album Renaming
-- Upload multiple albums at once
-- Date and times in the add photos to an album gui
 - Update sifting method when uploading pictures
+- Edit the websites icon
