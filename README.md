@@ -40,3 +40,4 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Seeing what pictures/files are on what drive
 - Different tile size options
 - Album Renaming
+- Upload multiple albums at once
