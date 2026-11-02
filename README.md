@@ -41,3 +41,4 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Different tile size options
 - Album Renaming
 - Upload multiple albums at once
+- Date and times in the add photos to an album gui
