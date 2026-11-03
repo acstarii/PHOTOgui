@@ -41,3 +41,5 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Different tile size options
 - Update sifting method when uploading pictures
 - Edit the websites icon
+- Face Recognition
+- Auto photo backup on phone
