@@ -43,3 +43,4 @@ Keep this computer awake: Settings > System > Power & sleep > Sleep > Never (whe
 - Edit the websites icon
 - Face Recognition
 - Auto photo backup on phone
+- App that allows you to connect to the main computer
