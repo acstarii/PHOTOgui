@@ -78,3 +78,4 @@ Your names and corrections are saved in `data/faces/people.tsv`. Deleting the `f
 - Seeing what pictures/files are on what drive
 - Different tile size options
 - Update sifting method when uploading pictures
+- Make the title in the top left the home button
