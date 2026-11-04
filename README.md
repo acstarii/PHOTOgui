@@ -62,8 +62,8 @@ Your names and corrections are saved in `data/faces/people.tsv`. Deleting the `f
 
 ## Notes
 
-- Supported: JPG, PNG, GIF, WebP, BMP. Not yet: HEIC (iPhone) and video.
-- Photos are stored in the created photo directory 'data' or optionally your own directory; previews in `<your_directory>/thumbs`; the list in `index.tsv`.
+- Supported: All types of picture and video formats.
+- Photos and Videos are stored in the created directory 'data' or optionally your own directory; previews in `<your_directory>/thumbs`; the list in `index.tsv`.
 - **Back up `<your_directory>`**. If the disk dies, the photos are gone.
 - Uploading the same photo twice is detected and ignored.
 - 10 wrong passwords within 10 minutes locks sign-in for the rest of that window.
@@ -78,7 +78,3 @@ Your names and corrections are saved in `data/faces/people.tsv`. Deleting the `f
 - Seeing what pictures/files are on what drive
 - Different tile size options
 - Update sifting method when uploading pictures
-- Edit the websites icon
-- Face Recognition
-- Auto photo backup on phone
-- App that allows you to connect to the main computer
