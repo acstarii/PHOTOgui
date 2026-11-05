@@ -37,6 +37,7 @@ If you're updating from an older version, unzip the new one, copy your old `conf
 
 1. Install **Python 3** from python.org. Tick **Add python.exe to PATH** in the installer. Python 3.11 or 3.12 is the safest choice.
 2. In a Command Prompt, run:
+    `winget install Microsoft.VCRedist.2015+.x64`
     `py install 3.12`
     `pip install opencv-python numpy onnxruntime`
    If `pip` isn't recognized, use `py -m pip install opencv-python numpy onnxruntime`.
