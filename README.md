@@ -36,9 +36,11 @@ If you're updating from an older version, unzip the new one, copy your old `conf
 ## Part 4: Face recognition (optional)
 
 1. Install **Python 3** from python.org. Tick **Add python.exe to PATH** in the installer. Python 3.11 or 3.12 is the safest choice.
-2. In a Command Prompt, run: `pip install opencv-python numpy onnxruntime`
+2. In a Command Prompt, run:
+    `py install 3.12`
+    `pip install opencv-python numpy onnxruntime`
    If `pip` isn't recognized, use `py -m pip install opencv-python numpy onnxruntime`.
-3. Restart `run.bat`, then open the menu button (top left) and choose **Faces**. The face models download by themselves the first time, and the accurate one is a few hundred MB, so allow a few minutes. The Faces tab shows progress.
+4. Restart `run.bat`, then open the menu button (top left) and choose **Faces**. The face models download by themselves the first time, and the accurate one is a few hundred MB, so allow a few minutes. The Faces tab shows progress.
 
 ## To start it again later
 
