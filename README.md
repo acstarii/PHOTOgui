@@ -55,6 +55,4 @@ Double-click `run.bat`. Keep its window open while you use PHOTOgui. Closing it 
 - Accessible from other devices that don't have tailscale
 - Support for using multiple drives
 - Seeing what pictures/files are on what drive
-- Different tile size options
-- Update sifting method when uploading pictures
-- Make the title in the top left the home button
+- Native Application to run alongside the tailscale website
