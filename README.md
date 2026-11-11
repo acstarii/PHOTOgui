@@ -56,3 +56,4 @@ Double-click `run.bat`. Keep its window open while you use PHOTOgui. Closing it 
 - Support for using multiple drives
 - Seeing what pictures/files are on what drive
 - Native Application to run alongside the tailscale website
+- Search bar in the faces tab
